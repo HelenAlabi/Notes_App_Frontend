@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 node_modules
+
+# Don't ignore .env file
+!.env
+
