@@ -1,0 +1,31 @@
+.noteCard{
+    background: linear-gradient(to bottom, #93c3ff, #7da0ca, #c1e8ff)no-repeat;
+ 
+
+}
+
+.cardBard{
+    overflow: hidden;
+    mask-image: linear-gradient(180deg,#0000, transparent);
+}
+.noteText{
+    white-space: pre-line;
+
+}
+
+.notDateAt{
+    background-color: #c1e8ff;
+    background: linear-gradient(to top,  );
+    font-weight: 400;
+    color: black;
+}
+
+.Delicon{
+    color: #aa0707;
+}
+
+.Delicon:hover{
+    color: rgb(224, 10, 36);
+    transition:  .2s ease-in-out;
+    box-shadow: rgba(255, 68, 90, 0.921) 0px 6px 24px 6px, rgba(254, 5, 43, 0.796) 0px 0px 0px 1px;
+}
